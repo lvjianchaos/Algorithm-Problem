@@ -109,7 +109,7 @@ Note that the answer always exists, as under the given constraints, there is alw
 
 ##### **思路**：
 
-【**并查集判环 + `dfs`找最小的边权**】
+##### 【**并查集判环 + `dfs`找最小的边权**】
 
 2种做法：`targan` / 并查集 --> 判环
 
