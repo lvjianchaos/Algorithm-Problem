@@ -70,7 +70,7 @@ In case if there is no any Pythagorean triple containing integer *n*, print - 
 
 **思路**
 
-【**构造**】
+##### 【**构造**】
 
 首先，`n <= 2`无解
 

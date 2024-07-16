@@ -80,7 +80,7 @@ Print "First", if both players play optimally well and Yaroslav wins. If Andrey 
 
 **思路**
 
-【博弈 贪心】
+##### 【博弈 贪心】
 
 我们知道最终每个人手上有n个字符。观察，会有**4种**情况：
 

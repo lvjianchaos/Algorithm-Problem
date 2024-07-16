@@ -67,7 +67,7 @@ standard input / standard output
 
 ## 题解
 
-【前缀和 贪心 暴力】
+##### 【前缀和 贪心 暴力】
 
 **问题的关键**在于我们何时选择`option 1`，何时选择`option 2`？分别选择几次？
 

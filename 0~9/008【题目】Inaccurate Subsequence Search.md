@@ -83,7 +83,7 @@ In the third example, good subsegments start at positions 1 and  2.
 
 ##### 思路
 
-**【暴力 模拟 滑动窗口思想】**
+##### **【暴力 模拟 滑动窗口思想】**
 
 **滑动窗口思想**，
 

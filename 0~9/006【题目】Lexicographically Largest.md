@@ -77,7 +77,7 @@ In the second test case, in each operation, select the last element.
 
 ## 题解
 
-【贪心 思维】
+##### 【贪心 思维】
 
 ##### 题意
 

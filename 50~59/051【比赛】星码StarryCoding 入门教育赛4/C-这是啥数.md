@@ -74,6 +74,8 @@ standard input / standard output
 
 ## 题解
 
+##### 【数学 思维】
+
 ##### **官方题解**
 
 首先：

@@ -95,6 +95,8 @@ The tree has split into two connected components. The first component consists o
 
 ##### **思路**：
 
+##### 【二分答案】
+
 类似的：有n个木头切成k段，每段的长度都至少是x且尽可能大
 
 这样，删除k个边就变成k+1个子树，每个子树大小>=x
