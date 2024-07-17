@@ -4,7 +4,7 @@
 
 <!--more-->
 
-1 seconds / 256 megabytes
+2 seconds / 256 megabytes
 
 standard input / standard output
 
