@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "565388186bdaff84",
+    "type": "split",
+    "children": [
+      {
+        "id": "feedaa4566a09040",
+        "type": "tabs",
+        "dimension": 80.11744966442953,
+        "children": [
+          {
+            "id": "81af9977742a3757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "ba2902b4ef1a6748"
+          }
+        ]
+      },
+      {
+        "id": "9b34738b2896cb25",
+        "type": "tabs",
+        "dimension": 19.88255033557047,
+        "children": [
+          {
+            "id": "17bda48bcc3be21e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            },
+            "group": "ba2902b4ef1a6748"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fbd6c570b403c2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "27c1b499fe329ea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d915bba7bef46791",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffa7dbc6f7e6fcf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0559311548bae1ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e54d1a1027cf7ee8",
+    "type": "split",
+    "children": [
+      {
+        "id": "41e9f19bf8b86750",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5988d71e7db4113",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a8f1fd23969f857",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa748c6f7c4eade4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "77552bb8ffcd2db9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "81af9977742a3757",
+  "lastOpenFiles": [
+    "板子.md",
+    "题解模板.md",
+    "README.md",
+    "Whut/0~9/000【比赛】24-WHUT-校赛/L-构造函数.md",
+    "Whut/0~9/000【比赛】24-WHUT-校赛/I-桃式麻将.md",
+    "Whut/0~9/000【比赛】24-WHUT-校赛/F-东方红红蓝.md",
+    "Whut/0~9/000【比赛】24-WHUT-校赛/B-补码转换.md",
+    "Whut/0~9/000【比赛】24-WHUT-校赛/A-Mobiusp败走.md",
+    "Starrycoding/0~9/009【题目】鼠鼠我鸭.md",
+    "Starrycoding/0~9/008【题目】吸氧羊的StarryCoding之旅.md",
+    "Starrycoding/0~9/000【比赛】星码StarryCoding 入门教育赛4/E-特别的多项式.md",
+    "Starrycoding/0~9/000【比赛】星码StarryCoding 入门教育赛4/D-公平数.md",
+    "Starrycoding/0~9/000【比赛】星码StarryCoding 入门教育赛4/C-这是啥数.md",
+    "Newcoder/0~9/009【题目】Bingbong的奇偶世界.md",
+    "Newcoder/0~9/000【周赛】牛客周赛 Round 46/E.立希喂猫.md",
+    "Newcoder/0~9/000【周赛】牛客周赛 Round 46/F.祥子拆团.md",
+    "Codeforces/10~19/019【题目】Maximize the Root.md",
+    "Codeforces/10~19/018【题目】Valuable Cards.md",
+    "Codeforces/10~19/017【题目】Novice's Mistake.md",
+    "Codeforces/10~19/016【题目】Test of Love.md",
+    "Codeforces/10~19/015【题目】Microcycle.md",
+    "Codeforces/10~19/014【题目】Tree Cutting.md",
+    "Codeforces/10~19/013【题目】News About Credit.md",
+    "Codeforces/10~19/012【vp】The 2022 ICPC Asia Hangzhou Regional Programming Contest/A - Modulo Ruins the Legend.md",
+    "Codeforces/10~19/012【vp】The 2022 ICPC Asia Hangzhou Regional Programming Contest/D - Money Game.md",
+    "Codeforces/10~19/012【vp】The 2022 ICPC Asia Hangzhou Regional Programming Contest/C - No Bug No Game.md",
+    "~"
+  ]
+}
