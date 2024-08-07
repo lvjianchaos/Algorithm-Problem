@@ -6,10 +6,9 @@
       {
         "id": "feedaa4566a09040",
         "type": "tabs",
-        "dimension": 80.11744966442953,
         "children": [
           {
-            "id": "81af9977742a3757",
+            "id": "24cb3babd8b2b1f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,26 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "ba2902b4ef1a6748"
-          }
-        ]
-      },
-      {
-        "id": "9b34738b2896cb25",
-        "type": "tabs",
-        "dimension": 19.88255033557047,
-        "children": [
-          {
-            "id": "17bda48bcc3be21e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
-            },
-            "group": "ba2902b4ef1a6748"
+            }
           }
         ]
       }
@@ -134,8 +114,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "sortOrder": "alphabeticalReverse",
+                "useHierarchy": false
               }
             }
           },
@@ -150,12 +130,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,11 +146,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "81af9977742a3757",
+  "active": "24cb3babd8b2b1f0",
   "lastOpenFiles": [
+    "Codeforces/20~29/020【比赛】CF Round 964 (Div. 4)/回顾.md",
+    "README.md",
+    "Codeforces/10~19/011【vp】2024 Jiangsu Collegiate Programming Contest/I - Integer Reaction.md",
+    "Codeforces/20~29/020【比赛】CF Round 964 (Div. 4)",
+    "Codeforces/20~29/030【比赛】Codeforces Round 964 (Div. 4)",
+    "Codeforces/20~29",
+    "Codeforces/新建文件夹",
+    "Codeforces/30~39/030【比赛】Codeforces Round 964 (Div. 4)",
     "板子.md",
     "题解模板.md",
-    "README.md",
     "Whut/0~9/000【比赛】24-WHUT-校赛/L-构造函数.md",
     "Whut/0~9/000【比赛】24-WHUT-校赛/I-桃式麻将.md",
     "Whut/0~9/000【比赛】24-WHUT-校赛/F-东方红红蓝.md",
@@ -193,8 +179,6 @@
     "Codeforces/10~19/014【题目】Tree Cutting.md",
     "Codeforces/10~19/013【题目】News About Credit.md",
     "Codeforces/10~19/012【vp】The 2022 ICPC Asia Hangzhou Regional Programming Contest/A - Modulo Ruins the Legend.md",
-    "Codeforces/10~19/012【vp】The 2022 ICPC Asia Hangzhou Regional Programming Contest/D - Money Game.md",
-    "Codeforces/10~19/012【vp】The 2022 ICPC Asia Hangzhou Regional Programming Contest/C - No Bug No Game.md",
     "~"
   ]
 }
