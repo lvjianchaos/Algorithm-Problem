@@ -89,7 +89,7 @@ standard input / standard output
 
 ## 题解
 
-##### 【优先队列】【重载<运算符】
+##### 1.【优先队列】【重载<运算符】【模拟】
 
 显而易见，我们不能就一回合一回合判断是否有技能攻击，这样一定超时。
 
@@ -98,9 +98,12 @@ standard input / standard output
 所以我们可以使用**优先队列**，**关键点**是一上来把攻击全用上去，然后等cd，谁好用谁，注意每次加cd，这样就🆗了，关键是优先队列。
 
 细节可看**代码注释**。
+#### 2.【二分答案】
 
+对于每种攻击，第一天全部使用，剩下可以攻击 [ ( t - 1 ) / ci ] 次。
 ## 代码
 
+##### 1. 优先队列
 ```c++
 #include <bits/stdc++.h>
 using namespace std;
@@ -154,6 +157,52 @@ int main()
 	ios::sync_with_stdio(0),cin.tie(0),cout.tie(0);
 	int _ = 1;cin >> _;
 	while(_ --) solve();
+	return 0;
+}
+```
+
+##### 2. 二分答案
+
+```c++
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long;
+
+const int N = 2e5 + 9;
+
+ll a[N],c[N];
+ll h,n;
+
+bool check(ll v) 
+{
+	__int128 s = 0;
+	for(int i = 1; i <= n; ++ i) 
+		s += a[i] * __int128((v - 1) / c[i] + 1);
+	
+	return s <= h;
+}
+
+void solve() 
+{
+	cin >> h >> n;
+	for(int i = 1; i <= n; ++ i) cin >> a[i];
+	for(int i = 1; i <= n; ++ i) cin >> c[i];
+	ll l = 0, r = 1e18;
+	while(l + 1 != r) 
+	{
+		ll mid = (l + r) >> 1;
+		if(check(mid)) l = mid;
+		else r = mid;
+	}
+	cout << r << '\n';
+}
+
+
+int main()
+{
+	ios::sync_with_stdio(0),cin.tie(0),cout.tie(0);
+	int t;cin >> t;
+	while(t --) solve();
 	return 0;
 }
 ```

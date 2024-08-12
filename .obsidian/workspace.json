@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Codeforces/0~9/000【比赛】Codeforces Round 952 (Div. 4)/H1. Maximize the Largest Component (Easy Version).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Codeforces/0~9/000【比赛】Codeforces Round 952 (Div. 4)/H1. Maximize the Largest Component (Easy Version).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Codeforces/0~9/000【比赛】Codeforces Round 952 (Div. 4)/H1. Maximize the Largest Component (Easy Version).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Codeforces/0~9/000【比赛】Codeforces Round 952 (Div. 4)/H1. Maximize the Largest Component (Easy Version).md"
               }
             }
           }
@@ -148,16 +148,23 @@
   },
   "active": "24cb3babd8b2b1f0",
   "lastOpenFiles": [
-    "Codeforces/20~29/020【比赛】CF Round 964 (Div. 4)/回顾.md",
+    "板子.md",
+    "Codeforces/0~9/000【比赛】Codeforces Round 952 (Div. 4)/H1. Maximize the Largest Component (Easy Version).md",
+    "Codeforces/20~29/021【比赛】CF Round 965 (Div. 2)/C - Perform Operations to Maximize Score.md",
+    "题解模板.md",
+    "Codeforces/20~29/021【比赛】CF Round 965 (Div. 2)/A , B.md",
     "README.md",
+    "Codeforces/20~29/020【比赛】CF Round 964 (Div. 4)/回顾.md",
+    "Codeforces/20~29/021【比赛】CF Round 965 (Div. 2)",
+    "Codeforces/0~9/000【比赛】Codeforces Round 952 (Div. 4)/F. Final Boss.md",
+    "Codeforces/0~9/000【比赛】Codeforces Round 952 (Div. 4)/G. D-Function.md",
+    "Luogu/0~9",
     "Codeforces/10~19/011【vp】2024 Jiangsu Collegiate Programming Contest/I - Integer Reaction.md",
     "Codeforces/20~29/020【比赛】CF Round 964 (Div. 4)",
     "Codeforces/20~29/030【比赛】Codeforces Round 964 (Div. 4)",
     "Codeforces/20~29",
     "Codeforces/新建文件夹",
     "Codeforces/30~39/030【比赛】Codeforces Round 964 (Div. 4)",
-    "板子.md",
-    "题解模板.md",
     "Whut/0~9/000【比赛】24-WHUT-校赛/L-构造函数.md",
     "Whut/0~9/000【比赛】24-WHUT-校赛/I-桃式麻将.md",
     "Whut/0~9/000【比赛】24-WHUT-校赛/F-东方红红蓝.md",
@@ -174,11 +181,6 @@
     "Codeforces/10~19/019【题目】Maximize the Root.md",
     "Codeforces/10~19/018【题目】Valuable Cards.md",
     "Codeforces/10~19/017【题目】Novice's Mistake.md",
-    "Codeforces/10~19/016【题目】Test of Love.md",
-    "Codeforces/10~19/015【题目】Microcycle.md",
-    "Codeforces/10~19/014【题目】Tree Cutting.md",
-    "Codeforces/10~19/013【题目】News About Credit.md",
-    "Codeforces/10~19/012【vp】The 2022 ICPC Asia Hangzhou Regional Programming Contest/A - Modulo Ruins the Legend.md",
     "~"
   ]
 }
