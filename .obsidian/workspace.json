@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "feedaa4566a09040",
+        "id": "76e3ce816d7d562d",
         "type": "tabs",
         "children": [
           {
-            "id": "24cb3babd8b2b1f0",
+            "id": "0aa21c63bac892f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codeforces/0~9/000【比赛】Codeforces Round 952 (Div. 4)/H1. Maximize the Largest Component (Easy Version).md",
+                "file": "Codeforces/20~29/025【比赛】Edu CF Round 169 (Rated for Div. 2)/D - Colored Portals.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 213.5
   },
   "right": {
     "id": "e54d1a1027cf7ee8",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codeforces/0~9/000【比赛】Codeforces Round 952 (Div. 4)/H1. Maximize the Largest Component (Easy Version).md",
+                "file": "Codeforces/20~29/025【比赛】Edu CF Round 169 (Rated for Div. 2)/D - Colored Portals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codeforces/0~9/000【比赛】Codeforces Round 952 (Div. 4)/H1. Maximize the Largest Component (Easy Version).md",
+                "file": "Codeforces/20~29/025【比赛】Edu CF Round 169 (Rated for Div. 2)/D - Colored Portals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codeforces/0~9/000【比赛】Codeforces Round 952 (Div. 4)/H1. Maximize the Largest Component (Easy Version).md"
+                "file": "Codeforces/20~29/025【比赛】Edu CF Round 169 (Rated for Div. 2)/D - Colored Portals.md"
               }
             }
           }
@@ -146,41 +146,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "24cb3babd8b2b1f0",
+  "active": "0aa21c63bac892f1",
   "lastOpenFiles": [
-    "板子.md",
-    "Codeforces/0~9/000【比赛】Codeforces Round 952 (Div. 4)/H1. Maximize the Largest Component (Easy Version).md",
-    "Codeforces/20~29/021【比赛】CF Round 965 (Div. 2)/C - Perform Operations to Maximize Score.md",
-    "题解模板.md",
-    "Codeforces/20~29/021【比赛】CF Round 965 (Div. 2)/A , B.md",
     "README.md",
+    "题解模板.md",
+    "Codeforces/20~29/025【比赛】Edu CF Round 169 (Rated for Div. 2)/D - Colored Portals.md",
+    "Codeforces/20~29/025【比赛】Edu CF Round 169 (Rated for Div. 2)/A ~ C.md",
+    "Codeforces/20~29/024【vp】The 2023 ICPC Asia Nanjing Regional Contest/I - Counter.md",
+    "Starrycoding/0~9/007 采药.md",
+    "板子吗？.md",
+    "Codeforces/20~29/025【比赛】Edu CF Round 169 (Rated for Div. 2)",
+    "Codeforces/20~29/024【vp】The 2023 ICPC Asia Nanjing Regional Contest/G - Knapsack.md",
+    "Codeforces/20~29/024【vp】The 2023 ICPC Asia Nanjing Regional Contest/C - Primitive Root.md",
+    "Codeforces/20~29/024【vp】The 2023 ICPC Asia Nanjing Regional Contest/F - Equivalent Rewriting.md",
+    "Codeforces/20~29/021【比赛】CF Round 965 (Div. 2)/A , B.md",
+    "Codeforces/20~29/023【比赛】CF Round 966 (Div. 3)/G - Call During the Journey.md",
+    "Codeforces/20~29/024【vp】The 2023 ICPC Asia Nanjing Regional Contest",
+    "Codeforces/20~29/023【比赛】CF Round 966 (Div. 3)/F - Color Rows and Columns.md",
+    "Codeforces/20~29/023【比赛】CF Round 966 (Div. 3)/A ~ E.md",
+    "Codeforces/20~29/023【比赛】CF Round 966 (Div. 3)/H -.md",
+    "Codeforces/20~29/022【vp】The 2023 ICPC Asia Shenyang Regional Contest/J. Graft and Transplant.md",
+    "Codeforces/20~29/023【比赛】CF Round 966 (Div. 3)",
+    "Codeforces/20~29/022【vp】The 2023 ICPC Asia Shenyang Regional Contest/E. Sheep Eat Wolves.md",
+    "Codeforces/20~29/022【vp】The 2023 ICPC Asia Shenyang Regional Contest/C. Swiss Stage.md",
+    "Codeforces/20~29/022【vp】The 2023 ICPC Asia Shenyang Regional Contest",
     "Codeforces/20~29/020【比赛】CF Round 964 (Div. 4)/回顾.md",
-    "Codeforces/20~29/021【比赛】CF Round 965 (Div. 2)",
-    "Codeforces/0~9/000【比赛】Codeforces Round 952 (Div. 4)/F. Final Boss.md",
-    "Codeforces/0~9/000【比赛】Codeforces Round 952 (Div. 4)/G. D-Function.md",
-    "Luogu/0~9",
+    "Codeforces/10~19/010【vp】The 2021 China Collegiate Programming Contest (Harbin)/J - Local Minimum.md",
     "Codeforces/10~19/011【vp】2024 Jiangsu Collegiate Programming Contest/I - Integer Reaction.md",
+    "Codeforces/10~19/012【vp】The 2022 ICPC Asia Hangzhou Regional Programming Contest/A - Modulo Ruins the Legend.md",
+    "Codeforces/10~19/012【vp】The 2022 ICPC Asia Hangzhou Regional Programming Contest/C - No Bug No Game.md",
+    "Codeforces/10~19/012【vp】The 2022 ICPC Asia Hangzhou Regional Programming Contest/D - Money Game.md",
+    "Codeforces/10~19/013【题目】News About Credit.md",
+    "Codeforces/10~19/014【题目】Tree Cutting.md",
+    "Codeforces/20~29/021【比赛】CF Round 965 (Div. 2)",
+    "Luogu/0~9",
     "Codeforces/20~29/020【比赛】CF Round 964 (Div. 4)",
     "Codeforces/20~29/030【比赛】Codeforces Round 964 (Div. 4)",
     "Codeforces/20~29",
-    "Codeforces/新建文件夹",
-    "Codeforces/30~39/030【比赛】Codeforces Round 964 (Div. 4)",
-    "Whut/0~9/000【比赛】24-WHUT-校赛/L-构造函数.md",
-    "Whut/0~9/000【比赛】24-WHUT-校赛/I-桃式麻将.md",
-    "Whut/0~9/000【比赛】24-WHUT-校赛/F-东方红红蓝.md",
-    "Whut/0~9/000【比赛】24-WHUT-校赛/B-补码转换.md",
-    "Whut/0~9/000【比赛】24-WHUT-校赛/A-Mobiusp败走.md",
-    "Starrycoding/0~9/009【题目】鼠鼠我鸭.md",
-    "Starrycoding/0~9/008【题目】吸氧羊的StarryCoding之旅.md",
-    "Starrycoding/0~9/000【比赛】星码StarryCoding 入门教育赛4/E-特别的多项式.md",
-    "Starrycoding/0~9/000【比赛】星码StarryCoding 入门教育赛4/D-公平数.md",
-    "Starrycoding/0~9/000【比赛】星码StarryCoding 入门教育赛4/C-这是啥数.md",
-    "Newcoder/0~9/009【题目】Bingbong的奇偶世界.md",
-    "Newcoder/0~9/000【周赛】牛客周赛 Round 46/E.立希喂猫.md",
-    "Newcoder/0~9/000【周赛】牛客周赛 Round 46/F.祥子拆团.md",
-    "Codeforces/10~19/019【题目】Maximize the Root.md",
-    "Codeforces/10~19/018【题目】Valuable Cards.md",
-    "Codeforces/10~19/017【题目】Novice's Mistake.md",
-    "~"
+    "Codeforces/新建文件夹"
   ]
 }

@@ -52,7 +52,7 @@ standard input / standard output
 
 ## 题解
 
-[[板子#2. 扩展欧几里得求逆元]]
+[[板子吗？#2. 扩展欧几里得求逆元]]
 ##### 【数论】【exgcd扩展欧几里得算法】【裵蜀定理】 
 > 设 sum(a[n]) = sum，
 > 	sum + s * n + n(n + 1)/2 * d (mod m)          (原式)

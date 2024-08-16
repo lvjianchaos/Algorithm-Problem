@@ -1,6 +1,6 @@
-**比赛场次**    
+**比赛场次**    [Codeforces Round 966 (Div. 3)](https://codeforces.com/contest/2000)
 
-**比赛题目**    
+**比赛题目**    H
 
 <!--more-->
 

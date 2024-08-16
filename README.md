@@ -17,18 +17,23 @@
 * [[C-这是啥数]]
 * [[F-东方红红蓝]]
 * [[回顾#E 题]]
+* [[J. Graft and Transplant]]
 #### 算法基础
 ##### 语法
 * [[B-补码转换]]
 * [[I-桃式麻将]]
+* [[C. Swiss Stage]]
+* [[A ~ E#A - Primary Task]]
 ##### STL
 * [[018【题目】Valuable Cards]]
+* [[A ~ E#C - Numeric String Template]]
 
 ##### 枚举
 [[017【题目】Novice's Mistake]]
 
 ##### 模拟
 * [[009【题目】Inaccurate Subsequence Search]]
+* [[I - Counter]]
 ##### 递归 & 分治
 ##### 贪心
 * [[F. Final Boss]]
@@ -42,6 +47,8 @@
 * [[018【题目】Valuable Cards]]
 * [[019【题目】Maximize the Root]]
 * [[009【题目】鼠鼠我鸭]]
+* [[A ~ E#D - Right Left Wrong]]
+* [[A ~ E#E - Photoshoot for Gorillas]]
 ##### 排序（12）
 * [[013【题目】News About Credit]]
 ##### 前缀和 & 差分
@@ -83,9 +90,11 @@
 ##### 基础dp
 * [[016【题目】Test of Love]]
 * [[009【题目】Bingbong的奇偶世界]]
-* 
+* [[E. Sheep Eat Wolves]]
+* [[F - Color Rows and Columns]]
 ##### 记忆化搜索
 ##### 背包DP
+* [[007 采药]]
 ##### 区间DP
 ##### DAG上的DP
 ##### 树形DP
@@ -113,7 +122,11 @@
 ##### ……
 
 #### 数学
-
+##### 基础
+* [[A ~ E#E - Photoshoot for Gorillas]]
+##### 位运算
+[[C - Primitive Root]]
+[[D - Colored Portals]]
 ##### 数论
 ###### 基础
 * [[008【题目】Add, Divide and Floor]]
@@ -143,6 +156,7 @@
 
 ##### 多项式与生成函数
 ##### 组合数学
+* [[回顾#F 题]]
 ##### 线性规划
 ##### 线性代数
 ##### 群论
@@ -201,6 +215,7 @@
 
 ##### 离散化
 ##### 双指针
+* [[A ~ E#D - Right Left Wrong]]
 ##### 离线算法
 ##### ……
 
