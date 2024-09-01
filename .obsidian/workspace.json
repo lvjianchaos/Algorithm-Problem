@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76e3ce816d7d562d",
+        "id": "d15ea81b7a8dd8b7",
         "type": "tabs",
         "children": [
           {
-            "id": "3a4f4c69b238ef31",
+            "id": "116446d68ce49a7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codeforces/20~29/026【比赛】CF Round 969 (Div. 2)/E - Iris and the Tree.md",
+                "file": "板子吗？.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codeforces/20~29/026【比赛】CF Round 969 (Div. 2)/E - Iris and the Tree.md",
+                "file": "板子吗？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codeforces/20~29/026【比赛】CF Round 969 (Div. 2)/E - Iris and the Tree.md",
+                "file": "板子吗？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codeforces/20~29/026【比赛】CF Round 969 (Div. 2)/E - Iris and the Tree.md"
+                "file": "板子吗？.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3a4f4c69b238ef31",
+  "active": "116446d68ce49a7a",
   "lastOpenFiles": [
-    "题解模板.md",
+    "[.md",
     "板子吗？.md",
     "Codeforces/20~29/026【比赛】CF Round 969 (Div. 2)/E - Iris and the Tree.md",
+    "题解模板.md",
     "Codeforces/20~29/026【比赛】CF Round 969 (Div. 2)/D - Iris and Game on the Tree.md",
     "Codeforces/20~29/026【比赛】CF Round 969 (Div. 2)/C - Dora and C++.md",
     "README.md",
@@ -178,7 +179,6 @@
     "Codeforces/20~29/022【vp】The 2023 ICPC Asia Shenyang Regional Contest/C. Swiss Stage.md",
     "Codeforces/20~29/022【vp】The 2023 ICPC Asia Shenyang Regional Contest",
     "Codeforces/20~29/020【比赛】CF Round 964 (Div. 4)/回顾.md",
-    "Codeforces/10~19/010【vp】The 2021 China Collegiate Programming Contest (Harbin)/J - Local Minimum.md",
     "Codeforces/20~29/021【比赛】CF Round 965 (Div. 2)",
     "Luogu/0~9",
     "Codeforces/20~29/020【比赛】CF Round 964 (Div. 4)",
