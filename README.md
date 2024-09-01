@@ -18,6 +18,8 @@
 * [[F-东方红红蓝]]
 * [[回顾#E 题]]
 * [[J. Graft and Transplant]]
+* [[B - Index and Maximum Value]]
+* [[A - Dora's Set]]
 #### 算法基础
 ##### 语法
 * [[B-补码转换]]
@@ -141,6 +143,7 @@
 
 ###### 裴蜀定理 
 * [[A - Modulo Ruins the Legend]]
+* [[C - Dora and C++]]
 ###### 类欧几里得算法
 * [[A - Modulo Ruins the Legend]]
 ###### 质因数分解
