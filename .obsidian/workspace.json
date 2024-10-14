@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d15ea81b7a8dd8b7",
+        "id": "35f08aec612f5e4d",
         "type": "tabs",
         "children": [
           {
-            "id": "116446d68ce49a7a",
+            "id": "8587406d104979bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "板子吗？.md",
+                "file": "Newcoder/0~9/002【周赛】牛客周赛 Round 63/E - 小红的 red 计数.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "板子吗？.md",
+                "file": "Newcoder/0~9/002【周赛】牛客周赛 Round 63/E - 小红的 red 计数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "板子吗？.md",
+                "file": "Newcoder/0~9/002【周赛】牛客周赛 Round 63/E - 小红的 red 计数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "板子吗？.md"
+                "file": "Newcoder/0~9/002【周赛】牛客周赛 Round 63/E - 小红的 red 计数.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,43 +145,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "116446d68ce49a7a",
+  "active": "8587406d104979bf",
   "lastOpenFiles": [
-    "[.md",
-    "板子吗？.md",
-    "Codeforces/20~29/026【比赛】CF Round 969 (Div. 2)/E - Iris and the Tree.md",
-    "题解模板.md",
-    "Codeforces/20~29/026【比赛】CF Round 969 (Div. 2)/D - Iris and Game on the Tree.md",
-    "Codeforces/20~29/026【比赛】CF Round 969 (Div. 2)/C - Dora and C++.md",
+    "Newcoder/0~9/002【周赛】牛客周赛 Round 63/A ~ D.md",
+    "Newcoder/0~9/002【周赛】牛客周赛 Round 63/E - 小红的 red 计数.md",
+    "Codeforces/30~39/030【赛后】Codeforces Round 978 (Div. 2)/B. Kar Salesman.md",
+    "Newcoder/0~9/002【周赛】牛客周赛 Round 63",
+    "Codeforces/30~39/030【赛后】Codeforces Round 978 (Div. 2)/A. Bus to Pénjamo.md",
+    "未命名.md",
     "README.md",
-    "Codeforces/20~29/026【比赛】CF Round 969 (Div. 2)/B - Index and Maximum Value.md",
+    "Codeforces/30~39/030【赛后】Codeforces Round 978 (Div. 2)",
+    "Codeforces/10~19/018【题目】Valuable Cards.md",
     "Codeforces/10~19/012【vp】The 2022 ICPC Asia Hangzhou Regional Programming Contest/A - Modulo Ruins the Legend.md",
-    "Codeforces/20~29/026【比赛】CF Round 969 (Div. 2)/A - Dora's Set.md",
+    "板子吗？.md",
+    "Codeforces/20~29/029【题目】Message Transmission Error (easy version).md",
+    "Newcoder/0~9/001【周赛】牛客周赛 Round 58/A - 会赢吗？.md",
+    "Newcoder/0~9/007【题目】小红的圆移动.md",
+    "快速分解素因数.md",
+    "Newcoder/0~9/008【题目】Counting Triangles.md",
+    "Codeforces/0~9/003【题目】Pythagorean Triples.md",
+    "Codeforces/0~9/004【题目】Sasha and the Casino.md",
+    "Codeforces/0~9/001【题目】Multipliers.md",
+    "Atcoder/0~9",
+    "Pasted image 20240926204549.png",
+    "子序列问题.md",
+    "Codeforces/10~19/013【题目】News About Credit.md",
+    "未命名",
+    "Codeforces/10~19/019【题目】Maximize the Root.md",
+    "Codeforces/10~19/017【题目】Novice's Mistake.md",
+    "Codeforces/10~19/016【题目】Test of Love.md",
+    "Codeforces/10~19/015【题目】Microcycle.md",
+    "Codeforces/10~19/014【题目】Tree Cutting.md",
+    "Codeforces/0~9/002【题目】Weird Game.md",
+    "Codeforces/0~9/009【题目】Inaccurate Subsequence Search.md",
+    "Codeforces/20~29/028【vp】CF Round",
+    "Codeforces/20~29/027【比赛】CF Round 970 (Div. 3)",
+    "Newcoder/0~9/001【周赛】牛客周赛 Round 58",
     "Codeforces/20~29/026【比赛】CF Round 969 (Div. 2)",
-    "Codeforces/20~29/025【比赛】Edu CF Round 169 (Rated for Div. 2)/D - Colored Portals.md",
-    "Codeforces/20~29/025【比赛】Edu CF Round 169 (Rated for Div. 2)/A ~ C.md",
-    "Codeforces/20~29/024【vp】The 2023 ICPC Asia Nanjing Regional Contest/I - Counter.md",
-    "Starrycoding/0~9/007 采药.md",
     "Codeforces/20~29/025【比赛】Edu CF Round 169 (Rated for Div. 2)",
-    "Codeforces/20~29/024【vp】The 2023 ICPC Asia Nanjing Regional Contest/G - Knapsack.md",
-    "Codeforces/20~29/024【vp】The 2023 ICPC Asia Nanjing Regional Contest/C - Primitive Root.md",
-    "Codeforces/20~29/024【vp】The 2023 ICPC Asia Nanjing Regional Contest/F - Equivalent Rewriting.md",
-    "Codeforces/20~29/021【比赛】CF Round 965 (Div. 2)/A , B.md",
-    "Codeforces/20~29/023【比赛】CF Round 966 (Div. 3)/G - Call During the Journey.md",
-    "Codeforces/20~29/024【vp】The 2023 ICPC Asia Nanjing Regional Contest",
-    "Codeforces/20~29/023【比赛】CF Round 966 (Div. 3)/F - Color Rows and Columns.md",
-    "Codeforces/20~29/023【比赛】CF Round 966 (Div. 3)/A ~ E.md",
-    "Codeforces/20~29/023【比赛】CF Round 966 (Div. 3)/H -.md",
-    "Codeforces/20~29/022【vp】The 2023 ICPC Asia Shenyang Regional Contest/J. Graft and Transplant.md",
-    "Codeforces/20~29/023【比赛】CF Round 966 (Div. 3)",
-    "Codeforces/20~29/022【vp】The 2023 ICPC Asia Shenyang Regional Contest/E. Sheep Eat Wolves.md",
-    "Codeforces/20~29/022【vp】The 2023 ICPC Asia Shenyang Regional Contest/C. Swiss Stage.md",
-    "Codeforces/20~29/022【vp】The 2023 ICPC Asia Shenyang Regional Contest",
-    "Codeforces/20~29/020【比赛】CF Round 964 (Div. 4)/回顾.md",
-    "Codeforces/20~29/021【比赛】CF Round 965 (Div. 2)",
-    "Luogu/0~9",
-    "Codeforces/20~29/020【比赛】CF Round 964 (Div. 4)",
-    "Codeforces/20~29/030【比赛】Codeforces Round 964 (Div. 4)",
-    "Codeforces/20~29"
+    "Codeforces/20~29/024【vp】The 2023 ICPC Asia Nanjing Regional Contest"
   ]
 }
