@@ -8,6 +8,7 @@
 
 standard input / standard output
 
+---
 ## 题目
 
 Stack has an array a of length n. He also has an empty set S. Note that S is **not** a multiset.

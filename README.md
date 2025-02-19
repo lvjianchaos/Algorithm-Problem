@@ -129,6 +129,7 @@
 ##### 位运算
 [[C - Primitive Root]]
 [[D - Colored Portals]]
+[[001 - Algorithm-Problem/Whut/0~9/001【比赛】24-蓝桥校赛/A ~ C#A 孤独的精灵]]
 ##### 数论
 ###### 基础
 * [[008【题目】Add, Divide and Floor]]
