@@ -135,7 +135,7 @@ mn->id 	id=>u , v
 
 ## 代码
 
-```c++
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
@@ -183,7 +183,7 @@ void solve()
         a[i] = {u,v,w};
     }
     // 按边权从大到小排序 保证最后得到的边权是最小的
-    sort(a + 1,a + m + 1,[](edge x,edge y){return x.w > y.w;});
+    sort(a + 1,a + m + 1,[](edge x, edge y){return x.w > y.w;});
     ll mn = 1e9,id = 0; // mn表示最小边权 id表示相应编号
     for(ll i = 1;i <= m;++ i)
     {
